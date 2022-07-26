@@ -1,0 +1,4 @@
+ - 
+Cabin 2 passenger 1 details :  First name:- emilee Last name:- bronte Expenses:- RS.2500.0 - 
+Cabin 3 passenger 2 details :  First name:- rachel Last name:- christy Expenses:- RS.2500.0 - 
+Cabin 4 passenger 2 details :  First name:- christy Last name:- perera Expenses:- RS.2500.0
